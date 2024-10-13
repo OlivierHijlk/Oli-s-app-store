@@ -85,3 +85,10 @@ def start_spel():
 
 # roept start_spel aan waarmee het spel start
 start_spel()
+
+""""
+Bronnen: 
+1. https://www.w3schools.com/python/default.asp
+2. https://www.youtube.com/watch?v=LpZmZs2_BC4&pp=ygUQcmVhZCBmaWxlIHB5dGhvbg%3D%3D
+3. Leergroep: 'groep 6'
+"""

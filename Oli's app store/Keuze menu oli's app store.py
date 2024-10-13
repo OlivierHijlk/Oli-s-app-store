@@ -40,6 +40,8 @@ if __name__ == '__main__':
 
 
 """"
+Stuk code waar ik trots op ben!
+
 Bronnenlijst:
 1. https://www.youtube.com/watch?v=cjXhbXWQxFE
 2. https://www.youtube.com/watch?v=CUFIjz_U7Mo
