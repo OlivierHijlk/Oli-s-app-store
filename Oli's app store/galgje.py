@@ -90,5 +90,7 @@ start_spel()
 Bronnen: 
 1. https://www.w3schools.com/python/default.asp
 2. https://www.youtube.com/watch?v=LpZmZs2_BC4&pp=ygUQcmVhZCBmaWxlIHB5dGhvbg%3D%3D
-3. Leergroep: 'groep 6'
+3. https://www.w3schools.com/python/python_sets.asp
+4. https://www.youtube.com/watch?v=KWgYha0clzw&pp=ygUPcHl0aG9uIGZvciBsb29w
+5. Leergroep: 'groep 6'
 """

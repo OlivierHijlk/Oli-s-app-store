@@ -42,5 +42,6 @@ Dit hierboven hadden we in de klas besproken en had ik opgeschreven
 Bronnenlijst:
 1. https://www.youtube.com/watch?v=B2tviDGFq84
 2. https://www.w3schools.com/python/default.asp
-3. Leergroep: 'groep 6'
+3. https://www.youtube.com/watch?v=KWgYha0clzw&pp=ygUPcHl0aG9uIGZvciBsb29w
+4. Leergroep: 'groep 6'
 """
